@@ -1,0 +1,217 @@
+/*
+================================================================================
+POWER BI DAX MEASURES COMPILATION
+================================================================================
+Project: HR Analytics & Workforce Intelligence Dashboard
+Author: Senior Data Analyst / Mentor
+Description: Beginner-friendly, well-commented DAX formulas.
+Instructions: In Power BI, click 'New Measure' in the Modeling tab, paste these formulas, 
+              and select the appropriate format (Currency, Percentage, Whole Number).
+================================================================================
+*/
+
+-- ----------------------------------------------------
+-- SECTION 1: BASIC WORKFORCE METRICS
+-- ----------------------------------------------------
+
+// 1. Total Employees
+// Counts the absolute number of employee records in the company history.
+Total Employees = 
+COUNTROWS(Fact_Employees)
+
+// 2. Active Employees
+// Counts only the employees who are currently working (status is 'Active').
+Active Employees = 
+CALCULATE(
+    [Total Employees],
+    Fact_Employees[Employment_Status] = "Active"
+)
+
+// 3. Employees Left
+// Counts the number of employees who have exited the company (status is 'Left').
+Employees Left = 
+CALCULATE(
+    [Total Employees],
+    Fact_Employees[Employment_Status] = "Left"
+)
+
+// 4. Attrition Rate
+// The percentage of employees who left the company relative to the total headcount.
+// Explaining during viva: Attrition Rate = (Employees Left / Total Headcount) * 100
+Attrition Rate = 
+DIVIDE(
+    [Employees Left],
+    [Total Employees],
+    0
+)
+
+// 5. Retention Rate
+// The percentage of employees retained by the organization.
+// Retention Rate = 1 - Attrition Rate
+Retention Rate = 
+1 - [Attrition Rate]
+
+// 6. Employee Growth
+// Net employee increase (Hires minus Exits)
+Employee Growth = 
+[Total Employees] - [Employees Left]
+
+
+-- ----------------------------------------------------
+-- SECTION 2: COMPENSATION & DEMOGRAPHICS
+-- ----------------------------------------------------
+
+// 7. Average Salary
+// Calculates the average annual salary of employees.
+Average Salary = 
+AVERAGE(Fact_Employees[Salary])
+
+// 8. Total Salary Expense
+// Calculates the total annual payroll expense.
+Total Salary Expense = 
+SUM(Fact_Employees[Salary])
+
+// 9. Average Age
+// Calculates the average age of the workforce.
+Average Age = 
+AVERAGE(Fact_Employees[Age])
+
+// 10. Average Experience
+// Calculates the average years of professional experience.
+Average Experience = 
+AVERAGE(Fact_Employees[Experience_Years])
+
+
+-- ----------------------------------------------------
+-- SECTION 3: EMPLOYEE SATISFACTION & PERFORMANCE
+-- ----------------------------------------------------
+
+// 11. Average Satisfaction
+// The average job satisfaction score (1 to 5).
+Average Satisfaction = 
+AVERAGE(Fact_Employees[Satisfaction_Score])
+
+// 12. Average Performance
+// The average performance rating (1 to 5).
+Average Performance = 
+AVERAGE(Fact_Employees[Performance_Score])
+
+// 13. Average Training Hours
+// The average hours spent in professional training.
+Average Training Hours = 
+AVERAGE(Fact_Employees[Training_Hours])
+
+// 14. Average Absenteeism
+// The average number of sick/leave days taken by an employee.
+Average Absenteeism = 
+AVERAGE(Fact_Employees[Absenteeism_Days])
+
+// 15. Average Overtime
+// The average overtime hours worked.
+Average Overtime = 
+AVERAGE(Fact_Employees[Overtime_Hours])
+
+// 16. Satisfaction Rate
+// Percentage of employees who are satisfied (Score 4 or 5: Satisfied or Very Satisfied).
+Satisfaction Rate = 
+DIVIDE(
+    CALCULATE(
+        [Total Employees],
+        Fact_Employees[Satisfaction_Score] >= 4
+    ),
+    [Total Employees],
+    0
+)
+
+// 17. Performance Rate
+// Percentage of employees who perform well (Score 4 or 5: Exceeds or Outstanding).
+Performance Rate = 
+DIVIDE(
+    CALCULATE(
+        [Total Employees],
+        Fact_Employees[Performance_Score] >= 4
+    ),
+    [Total Employees],
+    0
+)
+
+
+-- ----------------------------------------------------
+-- SECTION 4: RECRUITMENT ANALYTICS
+-- ----------------------------------------------------
+
+// 18. Total Applications
+// Counts the total number of candidate applications received.
+Total Applications = 
+COUNTROWS(Fact_Recruitment)
+
+// 19. Total Selected
+// Counts the number of candidates who passed the interview and were offered the role.
+Total Selected = 
+CALCULATE(
+    COUNTROWS(Fact_Recruitment),
+    Fact_Recruitment[Candidate_Status] IN { "Selected", "Joined" }
+)
+
+// 20. Total Joined (Total Hires)
+// Counts candidates who successfully accepted the offer and joined the company.
+Total Joined = 
+CALCULATE(
+    COUNTROWS(Fact_Recruitment),
+    Fact_Recruitment[Candidate_Status] = "Joined"
+)
+
+// 21. Hiring Rate
+// The percentage of applicants who actually ended up joining the company.
+Hiring Rate = 
+DIVIDE(
+    [Total Joined],
+    [Total Applications],
+    0
+)
+
+// 22. Average Time to Hire
+// Average number of days taken to fill a vacancy (from Application Date to Hiring Date).
+Average Time to Hire = 
+AVERAGE(Fact_Recruitment[Time_to_Hire])
+
+// 23. Average Recruitment Cost
+// Average cost incurred in hiring a candidate (job board postings, recruiter fees, campus visits).
+Average Recruitment Cost = 
+AVERAGE(Fact_Recruitment[Recruitment_Cost])
+
+// 24. Total Recruitment Budget Spent
+// Aggregate cost of all recruitment operations.
+Total Recruitment Cost = 
+SUM(Fact_Recruitment[Recruitment_Cost])
+
+
+-- ----------------------------------------------------
+-- SECTION 5: ADVANCED / TIME INTELLIGENCE
+-- ----------------------------------------------------
+
+// 25. Year-over-Year Employee Growth
+// Calculates the growth in headcount compared to the same period in the previous year.
+YoY Employee Growth = 
+VAR CurrentHeadcount = [Active Employees]
+VAR LastYearHeadcount = 
+    CALCULATE(
+        [Active Employees],
+        SAMEPERIODLASTYEAR(Dim_Date[Date])
+    )
+RETURN
+    IF(
+        ISBLANK(LastYearHeadcount) || LastYearHeadcount = 0,
+        BLANK(),
+        DIVIDE(CurrentHeadcount - LastYearHeadcount, LastYearHeadcount, 0)
+    )
+
+// 26. Department Attrition Rate
+// A localized attrition rate calculation. While the general Attrition Rate measure works 
+// dynamically when sliced by department, this measure explicitly shows the local context.
+Department Attrition Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS(Fact_Employees), Fact_Employees[Employment_Status] = "Left"),
+    CALCULATE(COUNTROWS(Fact_Employees), ALLSELECTED(Fact_Employees[Job_Role])),
+    0
+)

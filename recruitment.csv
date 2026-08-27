@@ -1,0 +1,651 @@
+Candidate_ID,Application_Date,Department,Job_Role,Recruitment_Source,Candidate_Status,Interview_Score,Experience_Years,Expected_Salary,Offered_Salary,Hiring_Date,Time_to_Hire,Recruitment_Cost
+CAND0001,2024-05-11,Operations,Operations Manager,Executive Search,Shortlisted,78,0,117635,0,,,1337
+CAND0002,2025-09-09,HR,Talent Acquisition Specialist,Indeed,Joined,94,6,75363,79604,2025-10-03,24.0,844
+CAND0003,2025-04-07,Sales,Sales Representative,Indeed,Joined,89,3,56920,55558,2025-05-07,30.0,2382
+CAND0004,2025-12-24,Marketing,Digital Marketing Manager,Indeed,Interviewed,56,2,91134,0,,,133
+CAND0005,2025-03-18,Marketing,Content Writer,Referral,Applied,91,3,64448,0,,,56
+CAND0006,2026-01-14,Operations,Operations Analyst,LinkedIn,Joined,92,0,73481,78991,2026-03-12,57.0,4297
+CAND0007,2021-10-15,Finance,Financial Analyst,Glassdoor,Rejected,47,2,64099,0,,,119
+CAND0008,2025-03-07,Marketing,Digital Marketing Manager,Indeed,Joined,96,9,108772,105541,2025-04-08,32.0,2468
+CAND0009,2023-08-22,Finance,Senior Accountant,Executive Search,Shortlisted,73,11,121140,0,,,1929
+CAND0010,2021-03-24,HR,HR Manager,LinkedIn,Shortlisted,65,0,100704,0,,,291
+CAND0011,2025-05-29,Finance,Auditor,Referral,Joined,90,3,112396,107812,2025-06-28,30.0,674
+CAND0012,2023-12-28,Finance,Auditor,College Campus,Rejected,63,7,92584,0,,,140
+CAND0013,2021-05-26,Marketing,Content Writer,Indeed,Applied,66,0,52045,0,,,250
+CAND0014,2025-08-09,Operations,Operations Manager,LinkedIn,Joined,88,5,166935,167973,2025-09-12,34.0,2789
+CAND0015,2025-10-26,Operations,Supply Chain Planner,Indeed,Joined,93,1,65199,70912,2025-12-06,41.0,1962
+CAND0016,2021-03-20,Sales,Sales Director,LinkedIn,Rejected,36,1,173449,0,,,322
+CAND0017,2026-01-17,Customer Service,Support Lead,Referral,Shortlisted,79,0,60471,0,,,32
+CAND0018,2025-10-28,Marketing,Digital Marketing Manager,Glassdoor,Rejected,47,2,86162,0,,,126
+CAND0019,2023-02-27,Finance,Auditor,Executive Search,Rejected,53,11,86152,0,,,2490
+CAND0020,2025-06-23,Marketing,Content Writer,Glassdoor,Joined,89,2,60430,61506,2025-08-08,46.0,2755
+CAND0021,2026-03-17,Customer Service,Customer Success Manager,Executive Search,Interviewed,66,6,111404,0,,,1765
+CAND0022,2023-03-06,Operations,Supply Chain Planner,Indeed,Applied,67,0,77875,0,,,214
+CAND0023,2025-11-14,HR,Benefits Specialist,Indeed,Joined,81,14,100794,107856,2025-11-30,16.0,2051
+CAND0024,2024-09-21,IT,System Administrator,Referral,Interviewed,48,9,92429,0,,,49
+CAND0025,2020-06-23,Operations,Logistics Coordinator,Executive Search,Rejected,64,9,75311,0,,,1304
+CAND0026,2026-07-07,Sales,Business Development Associate,Referral,Selected,51,5,69548,67441,2026-09-05,60.0,524
+CAND0027,2021-09-14,Customer Service,Customer Success Manager,Referral,Applied,38,13,98088,0,,,45
+CAND0028,2025-01-30,Customer Service,Support Lead,LinkedIn,Joined,98,13,103342,103200,2025-02-17,18.0,2696
+CAND0029,2022-02-25,Finance,Senior Accountant,Referral,Selected,76,8,101249,106239,2022-03-30,33.0,733
+CAND0030,2024-05-01,Operations,Supply Chain Planner,LinkedIn,Applied,81,7,91319,0,,,446
+CAND0031,2020-01-28,IT,Senior Developer,Referral,Rejected,62,1,150543,0,,,59
+CAND0032,2024-10-12,Marketing,Digital Marketing Manager,LinkedIn,Rejected,63,7,119481,0,,,382
+CAND0033,2021-03-28,IT,Software Engineer,Indeed,Applied,77,5,108025,0,,,99
+CAND0034,2025-07-22,HR,HR Manager,LinkedIn,Rejected,30,7,108896,0,,,194
+CAND0035,2024-01-16,Finance,Auditor,LinkedIn,Shortlisted,57,2,78540,0,,,169
+CAND0036,2025-02-25,HR,Talent Acquisition Specialist,Glassdoor,Joined,98,2,64151,65700,2025-04-14,48.0,2308
+CAND0037,2022-03-04,Operations,Operations Analyst,Glassdoor,Interviewed,37,5,71082,0,,,112
+CAND0038,2026-04-23,Finance,Senior Accountant,LinkedIn,Joined,86,6,107108,111473,2026-05-12,19.0,3584
+CAND0039,2025-02-28,Operations,Operations Analyst,LinkedIn,Joined,81,3,81522,79531,2025-04-27,58.0,2282
+CAND0040,2024-05-19,Operations,Operations Analyst,Glassdoor,Interviewed,91,1,62573,0,,,193
+CAND0041,2025-03-02,IT,Senior Developer,Referral,Joined,76,6,148357,159599,2025-04-18,47.0,939
+CAND0042,2022-09-14,IT,QA Engineer,College Campus,Shortlisted,87,0,58604,0,,,149
+CAND0043,2020-10-10,Sales,Sales Director,LinkedIn,Rejected,34,8,158587,0,,,339
+CAND0044,2025-02-26,Operations,Operations Analyst,Referral,Interviewed,56,0,65850,0,,,40
+CAND0045,2023-04-24,IT,System Administrator,College Campus,Shortlisted,84,5,76435,0,,,67
+CAND0046,2023-01-11,Sales,Business Development Associate,Referral,Interviewed,55,6,82778,0,,,50
+CAND0047,2025-04-22,Operations,Supply Chain Planner,LinkedIn,Joined,90,3,80709,78323,2025-05-11,19.0,4446
+CAND0048,2025-06-19,Customer Service,Customer Support Agent,Glassdoor,Joined,85,2,41689,39877,2025-07-05,16.0,2098
+CAND0049,2025-04-17,IT,Data Scientist,LinkedIn,Joined,83,0,113684,119231,2025-05-14,27.0,3708
+CAND0050,2025-01-30,HR,Talent Acquisition Specialist,LinkedIn,Joined,88,16,98421,103703,2025-03-08,37.0,4390
+CAND0051,2025-01-16,Marketing,Brand Manager,LinkedIn,Joined,82,6,133928,140282,2025-02-23,38.0,2480
+CAND0052,2021-05-09,Marketing,Digital Marketing Manager,Glassdoor,Shortlisted,68,6,100659,0,,,195
+CAND0053,2024-10-04,Operations,Supply Chain Planner,Glassdoor,Applied,72,3,81396,0,,,266
+CAND0054,2025-07-18,Operations,Operations Analyst,College Campus,Joined,88,3,67748,68976,2025-08-29,42.0,1738
+CAND0055,2021-04-16,IT,Senior Developer,LinkedIn,Selected,73,6,146818,141790,2021-06-27,72.0,3392
+CAND0056,2025-05-11,Customer Service,Customer Success Manager,Glassdoor,Joined,88,6,100692,101825,2025-06-19,39.0,2661
+CAND0057,2025-06-05,Finance,Finance Manager,LinkedIn,Shortlisted,57,6,124975,0,,,281
+CAND0058,2025-08-21,Finance,Auditor,Glassdoor,Joined,86,3,93728,89993,2025-10-08,48.0,1873
+CAND0059,2026-05-20,HR,Talent Acquisition Specialist,College Campus,Joined,75,5,64918,63610,2026-06-19,30.0,1456
+CAND0060,2024-01-06,IT,Data Scientist,College Campus,Applied,31,7,155994,0,,,143
+CAND0061,2024-01-16,HR,Talent Acquisition Specialist,Referral,Shortlisted,64,11,74822,0,,,81
+CAND0062,2025-03-28,Sales,Sales Director,Indeed,Joined,79,4,252772,251767,2025-05-02,35.0,1784
+CAND0063,2025-02-15,Sales,Account Manager,LinkedIn,Applied,86,5,107679,0,,,183
+CAND0064,2025-06-30,Sales,Sales Representative,Indeed,Joined,79,7,75736,75176,2025-07-18,18.0,1370
+CAND0065,2025-09-07,Sales,Business Development Associate,Glassdoor,Joined,96,0,66149,70108,2025-10-10,33.0,1443
+CAND0066,2025-08-08,IT,System Administrator,Executive Search,Shortlisted,87,5,90466,0,,,1353
+CAND0067,2021-01-08,Customer Service,Customer Success Manager,Referral,Interviewed,90,1,66090,0,,,68
+CAND0068,2026-07-26,Marketing,Content Writer,Glassdoor,Shortlisted,88,6,66125,0,,,160
+CAND0069,2025-04-29,IT,System Administrator,Glassdoor,Joined,98,6,89901,89705,2025-06-22,54.0,2073
+CAND0070,2020-02-19,HR,HR Manager,Glassdoor,Applied,76,7,115178,0,,,133
+CAND0071,2025-09-26,Customer Service,Support Lead,Indeed,Shortlisted,76,4,65459,0,,,239
+CAND0072,2020-10-01,HR,Talent Acquisition Specialist,Indeed,Interviewed,63,7,71668,0,,,207
+CAND0073,2025-11-23,Sales,Sales Representative,Glassdoor,Applied,61,3,60262,0,,,110
+CAND0074,2024-12-27,Finance,Auditor,Executive Search,Applied,72,7,71957,0,,,2420
+CAND0075,2026-01-11,IT,Software Engineer,Referral,Rejected,49,8,103924,0,,,30
+CAND0076,2026-01-02,Customer Service,Support Lead,LinkedIn,Joined,79,7,65583,68302,2026-01-19,17.0,3795
+CAND0077,2022-11-10,HR,HR Manager,Referral,Interviewed,56,8,124687,0,,,62
+CAND0078,2025-05-26,Finance,Financial Analyst,LinkedIn,Joined,97,5,113707,122128,2025-07-12,47.0,3515
+CAND0079,2022-05-31,Marketing,Digital Marketing Manager,LinkedIn,Interviewed,90,5,97178,0,,,253
+CAND0080,2023-04-18,Operations,Supply Chain Planner,Executive Search,Rejected,60,0,60104,0,,,1237
+CAND0081,2021-03-06,IT,QA Engineer,Executive Search,Rejected,62,2,74379,0,,,1797
+CAND0082,2025-10-03,Sales,Sales Director,Indeed,Joined,79,3,188862,199526,2025-11-20,48.0,1903
+CAND0083,2025-02-01,Sales,Sales Representative,Executive Search,Joined,80,2,58363,55676,2025-03-25,52.0,20160
+CAND0084,2020-04-16,Finance,Financial Analyst,LinkedIn,Interviewed,48,7,75111,0,,,373
+CAND0085,2025-09-01,IT,Software Engineer,Glassdoor,Selected,52,14,117737,112862,2025-09-22,21.0,2145
+CAND0086,2024-03-19,Finance,Senior Accountant,Indeed,Rejected,61,3,102316,0,,,121
+CAND0087,2022-09-22,Operations,Logistics Coordinator,Indeed,Rejected,57,6,71296,0,,,202
+CAND0088,2020-10-04,Customer Service,Customer Support Agent,LinkedIn,Rejected,37,2,50581,0,,,165
+CAND0089,2024-09-14,Marketing,Digital Marketing Manager,LinkedIn,Shortlisted,64,1,78241,0,,,276
+CAND0090,2024-06-24,Marketing,Marketing Specialist,Indeed,Interviewed,59,2,63727,0,,,223
+CAND0091,2025-02-07,IT,System Administrator,College Campus,Selected,56,0,80369,82294,2025-03-02,23.0,1037
+CAND0092,2023-08-12,Operations,Supply Chain Planner,Referral,Applied,83,10,95069,0,,,47
+CAND0093,2020-09-12,Operations,Operations Analyst,College Campus,Applied,47,0,72098,0,,,180
+CAND0094,2022-07-30,IT,System Administrator,College Campus,Selected,82,3,84007,86920,2022-10-13,75.0,1211
+CAND0095,2020-04-22,HR,HR Generalist,LinkedIn,Rejected,57,0,53012,0,,,153
+CAND0096,2025-02-21,Sales,Business Development Associate,Indeed,Shortlisted,94,1,56689,0,,,108
+CAND0097,2025-01-09,Marketing,Digital Marketing Manager,LinkedIn,Joined,78,7,136597,134971,2025-03-02,52.0,2073
+CAND0098,2023-06-22,Marketing,Digital Marketing Manager,Referral,Selected,75,10,107640,110411,2023-07-18,26.0,715
+CAND0099,2020-11-01,Sales,Business Development Associate,Executive Search,Interviewed,91,5,69654,0,,,1405
+CAND0100,2022-01-03,Marketing,Digital Marketing Manager,Referral,Shortlisted,75,1,79674,0,,,38
+CAND0101,2023-06-01,Sales,Account Manager,Referral,Applied,50,2,71313,0,,,73
+CAND0102,2025-12-12,Sales,Sales Representative,College Campus,Interviewed,87,1,63531,0,,,131
+CAND0103,2025-12-11,Marketing,Brand Manager,LinkedIn,Joined,85,4,96951,104773,2026-01-20,40.0,3754
+CAND0104,2022-06-24,Marketing,Marketing Specialist,Referral,Interviewed,60,4,67766,0,,,87
+CAND0105,2025-04-17,HR,HR Manager,Glassdoor,Shortlisted,89,5,107976,0,,,188
+CAND0106,2024-11-20,IT,Data Scientist,Glassdoor,Joined,90,1,90623,94693,2025-01-12,53.0,1051
+CAND0107,2024-07-11,HR,HR Manager,Executive Search,Applied,33,12,125425,0,,,2364
+CAND0108,2020-12-05,Finance,Financial Analyst,Referral,Rejected,59,0,68802,0,,,79
+CAND0109,2025-01-07,HR,HR Generalist,Indeed,Rejected,75,4,67269,0,,,151
+CAND0110,2025-07-07,Marketing,Content Writer,LinkedIn,Applied,69,3,64088,0,,,325
+CAND0111,2025-04-20,Customer Service,Customer Support Agent,LinkedIn,Joined,86,2,49029,48254,2025-06-15,56.0,1517
+CAND0112,2025-01-20,HR,HR Manager,Glassdoor,Selected,73,8,150829,157584,2025-03-16,55.0,2710
+CAND0113,2025-04-30,Finance,Auditor,LinkedIn,Applied,32,6,73939,0,,,391
+CAND0114,2025-02-05,Sales,Business Development Associate,LinkedIn,Joined,78,6,87867,87027,2025-02-27,22.0,2114
+CAND0115,2026-05-19,Customer Service,Support Lead,Indeed,Joined,77,1,64237,64459,2026-06-03,15.0,1601
+CAND0116,2021-06-15,IT,QA Engineer,Glassdoor,Interviewed,32,7,87239,0,,,235
+CAND0117,2021-05-18,Finance,Senior Accountant,Indeed,Applied,54,6,103380,0,,,203
+CAND0118,2025-12-19,Customer Service,Customer Success Manager,LinkedIn,Joined,95,0,74843,76051,2026-01-10,22.0,3074
+CAND0119,2025-12-15,Sales,Business Development Associate,LinkedIn,Joined,75,0,59821,58800,2026-01-01,17.0,3541
+CAND0120,2021-06-20,IT,Senior Developer,Glassdoor,Rejected,64,1,118666,0,,,153
+CAND0121,2022-01-13,Marketing,Content Writer,Glassdoor,Shortlisted,66,9,55508,0,,,242
+CAND0122,2026-06-27,Sales,Sales Representative,Executive Search,Applied,80,8,81491,0,,,2179
+CAND0123,2020-06-03,Sales,Business Development Associate,Glassdoor,Selected,93,8,68407,67462,2020-07-12,39.0,1518
+CAND0124,2026-03-01,HR,HR Manager,Glassdoor,Applied,78,10,151372,0,,,283
+CAND0125,2024-05-16,Marketing,Content Writer,Glassdoor,Applied,64,6,70186,0,,,140
+CAND0126,2023-01-02,Marketing,Digital Marketing Manager,Executive Search,Interviewed,84,10,119681,0,,,1882
+CAND0127,2022-07-20,HR,Benefits Specialist,Referral,Interviewed,60,6,68266,0,,,33
+CAND0128,2023-02-07,Customer Service,Support Lead,Referral,Interviewed,30,4,77304,0,,,92
+CAND0129,2025-09-05,Sales,Sales Director,Glassdoor,Joined,95,2,138303,143875,2025-09-30,25.0,2646
+CAND0130,2022-01-27,HR,HR Manager,Glassdoor,Rejected,65,4,118434,0,,,277
+CAND0131,2022-08-07,Finance,Financial Analyst,Executive Search,Shortlisted,57,4,81008,0,,,2380
+CAND0132,2025-09-18,Sales,Account Manager,LinkedIn,Joined,92,0,80058,85135,2025-10-14,26.0,3398
+CAND0133,2025-08-03,Sales,Business Development Associate,Referral,Joined,76,5,97891,101056,2025-08-18,15.0,587
+CAND0134,2025-07-27,Marketing,Marketing Specialist,Glassdoor,Joined,81,1,69241,70291,2025-09-18,53.0,2427
+CAND0135,2025-01-07,HR,Benefits Specialist,Indeed,Shortlisted,74,2,77602,0,,,208
+CAND0136,2020-03-29,IT,Senior Developer,College Campus,Applied,47,11,182820,0,,,164
+CAND0137,2025-10-03,IT,System Administrator,LinkedIn,Applied,30,6,86585,0,,,290
+CAND0138,2025-11-30,Sales,Account Manager,Indeed,Joined,92,2,78788,86189,2025-12-26,26.0,1229
+CAND0139,2026-04-02,IT,Data Scientist,College Campus,Joined,79,0,122417,118126,2026-04-21,19.0,1721
+CAND0140,2025-04-07,Sales,Sales Director,Indeed,Joined,96,2,203333,203161,2025-06-04,58.0,1276
+CAND0141,2026-06-14,Customer Service,Support Lead,College Campus,Shortlisted,60,5,63954,0,,,72
+CAND0142,2025-05-28,Operations,Logistics Coordinator,LinkedIn,Joined,86,8,62031,62886,2025-07-24,57.0,2625
+CAND0143,2021-07-27,HR,Benefits Specialist,Glassdoor,Rejected,63,6,68053,0,,,212
+CAND0144,2025-09-05,Operations,Supply Chain Planner,Indeed,Shortlisted,56,16,118335,0,,,154
+CAND0145,2026-01-30,Marketing,Digital Marketing Manager,College Campus,Interviewed,74,0,94172,0,,,120
+CAND0146,2025-02-18,Finance,Auditor,LinkedIn,Rejected,40,1,77122,0,,,245
+CAND0147,2026-03-13,HR,Benefits Specialist,Indeed,Joined,90,2,64303,64314,2026-04-02,20.0,1423
+CAND0148,2025-09-12,Marketing,Digital Marketing Manager,Glassdoor,Joined,85,7,112577,111092,2025-10-19,37.0,1450
+CAND0149,2021-02-25,Operations,Operations Analyst,Referral,Shortlisted,63,0,63622,0,,,76
+CAND0150,2025-10-07,Sales,Business Development Associate,College Campus,Joined,83,4,68439,71456,2025-11-19,43.0,787
+CAND0151,2023-03-09,Operations,Operations Manager,Referral,Rejected,51,4,130939,0,,,56
+CAND0152,2024-05-14,HR,Benefits Specialist,LinkedIn,Applied,45,5,80098,0,,,418
+CAND0153,2025-04-14,HR,HR Generalist,College Campus,Rejected,64,3,71356,0,,,97
+CAND0154,2026-03-08,Operations,Operations Analyst,LinkedIn,Joined,82,1,52014,57600,2026-04-19,42.0,2462
+CAND0155,2023-09-16,Marketing,Brand Manager,LinkedIn,Selected,57,2,108395,106612,2023-11-20,65.0,2851
+CAND0156,2021-03-19,Customer Service,Customer Success Manager,College Campus,Rejected,46,5,107954,0,,,188
+CAND0157,2025-10-03,Sales,Business Development Associate,Indeed,Rejected,52,2,56219,0,,,137
+CAND0158,2024-07-06,Customer Service,Customer Success Manager,College Campus,Rejected,69,6,94800,0,,,120
+CAND0159,2021-04-18,IT,System Administrator,Executive Search,Applied,77,9,108685,0,,,1596
+CAND0160,2021-03-25,Finance,Financial Analyst,Executive Search,Interviewed,60,7,78730,0,,,1603
+CAND0161,2026-02-23,HR,Benefits Specialist,Indeed,Joined,86,0,51723,50956,2026-04-09,45.0,1704
+CAND0162,2026-02-09,HR,HR Generalist,LinkedIn,Shortlisted,53,8,71736,0,,,407
+CAND0163,2025-11-04,HR,Benefits Specialist,LinkedIn,Joined,91,0,69475,67608,2025-11-24,20.0,2331
+CAND0164,2023-03-03,HR,Benefits Specialist,College Campus,Applied,40,9,69698,0,,,190
+CAND0165,2021-01-03,HR,Benefits Specialist,Referral,Interviewed,43,6,75029,0,,,31
+CAND0166,2023-12-24,Operations,Operations Analyst,Executive Search,Interviewed,79,4,70913,0,,,1305
+CAND0167,2020-12-12,HR,Talent Acquisition Specialist,College Campus,Rejected,48,1,70857,0,,,67
+CAND0168,2025-04-05,Operations,Supply Chain Planner,Indeed,Applied,42,3,83388,0,,,192
+CAND0169,2026-02-13,Sales,Account Manager,LinkedIn,Joined,77,14,100614,98833,2026-04-05,51.0,3313
+CAND0170,2026-04-04,IT,Software Engineer,Indeed,Joined,88,2,89923,88446,2026-05-18,44.0,1033
+CAND0171,2024-05-15,Finance,Senior Accountant,College Campus,Interviewed,92,2,75634,0,,,140
+CAND0172,2021-09-02,Finance,Financial Analyst,Glassdoor,Applied,65,7,87568,0,,,110
+CAND0173,2025-10-31,Customer Service,Customer Support Agent,Indeed,Joined,75,4,55897,60782,2025-11-26,26.0,2123
+CAND0174,2024-10-07,Customer Service,Customer Success Manager,Indeed,Shortlisted,54,6,110441,0,,,123
+CAND0175,2021-06-12,Finance,Finance Manager,LinkedIn,Interviewed,94,7,148734,0,,,335
+CAND0176,2026-08-17,IT,Senior Developer,Executive Search,Applied,31,0,144622,0,,,2479
+CAND0177,2025-10-28,HR,HR Manager,Referral,Interviewed,74,10,139304,0,,,94
+CAND0178,2024-11-20,IT,Senior Developer,LinkedIn,Joined,98,6,167840,182053,2025-01-19,60.0,3236
+CAND0179,2022-01-26,IT,Software Engineer,LinkedIn,Rejected,46,3,89182,0,,,220
+CAND0180,2025-12-04,Finance,Senior Accountant,Indeed,Joined,78,2,89028,95060,2026-01-08,35.0,1375
+CAND0181,2021-05-11,IT,Data Scientist,Glassdoor,Applied,42,0,95402,0,,,209
+CAND0182,2021-06-24,HR,HR Manager,Indeed,Applied,55,3,95235,0,,,234
+CAND0183,2026-08-19,Marketing,Marketing Specialist,Executive Search,Interviewed,58,14,96110,0,,,1214
+CAND0184,2025-12-26,HR,HR Manager,Indeed,Joined,96,1,139480,139462,2026-02-15,51.0,976
+CAND0185,2026-04-12,Operations,Supply Chain Planner,Indeed,Shortlisted,51,3,78696,0,,,233
+CAND0186,2024-02-19,Operations,Operations Manager,Executive Search,Shortlisted,73,3,98588,0,,,1270
+CAND0187,2026-03-02,Finance,Auditor,LinkedIn,Joined,77,9,97970,104385,2026-03-25,23.0,4437
+CAND0188,2026-02-10,IT,Senior Developer,Glassdoor,Joined,90,5,165986,160064,2026-02-28,18.0,1935
+CAND0189,2025-06-04,HR,HR Generalist,Indeed,Joined,83,0,52209,53053,2025-07-04,30.0,2426
+CAND0190,2026-02-02,Customer Service,Customer Support Agent,Glassdoor,Joined,96,10,54913,56036,2026-03-30,56.0,2242
+CAND0191,2025-02-16,IT,Senior Developer,College Campus,Joined,81,7,156069,161093,2025-03-14,26.0,1583
+CAND0192,2026-05-29,Customer Service,Customer Support Agent,College Campus,Applied,63,4,55776,0,,,181
+CAND0193,2026-01-21,HR,Talent Acquisition Specialist,Glassdoor,Joined,86,7,81550,84680,2026-02-21,31.0,1967
+CAND0194,2025-05-25,HR,Talent Acquisition Specialist,Glassdoor,Joined,86,3,73545,77354,2025-07-04,40.0,2684
+CAND0195,2025-02-09,Customer Service,Support Lead,Indeed,Joined,89,1,69645,72234,2025-03-07,26.0,960
+CAND0196,2025-06-13,Finance,Senior Accountant,Glassdoor,Joined,98,1,84460,84237,2025-07-26,43.0,1238
+CAND0197,2023-08-15,Operations,Supply Chain Planner,Indeed,Applied,75,4,79034,0,,,101
+CAND0198,2025-04-15,Sales,Sales Representative,LinkedIn,Joined,87,0,43367,41758,2025-05-25,40.0,3304
+CAND0199,2024-03-16,IT,System Administrator,Glassdoor,Applied,42,1,69065,0,,,211
+CAND0200,2022-06-09,Marketing,Content Writer,Executive Search,Rejected,35,5,54522,0,,,2395
+CAND0201,2025-03-17,HR,HR Generalist,LinkedIn,Joined,95,0,58087,55899,2025-05-14,58.0,2682
+CAND0202,2023-04-29,IT,System Administrator,Glassdoor,Rejected,52,9,103625,0,,,186
+CAND0203,2026-05-12,Operations,Operations Manager,Glassdoor,Joined,75,3,140321,148562,2026-06-09,28.0,2392
+CAND0204,2024-11-23,HR,Talent Acquisition Specialist,Glassdoor,Joined,88,2,53502,52615,2025-01-06,44.0,2401
+CAND0205,2025-06-24,Marketing,Marketing Specialist,LinkedIn,Joined,96,0,45374,49571,2025-08-18,55.0,2260
+CAND0206,2026-02-08,Finance,Financial Analyst,College Campus,Joined,78,10,139361,140749,2026-03-09,29.0,1589
+CAND0207,2024-01-28,HR,Benefits Specialist,Glassdoor,Applied,62,6,77776,0,,,164
+CAND0208,2024-05-05,Marketing,Content Writer,College Campus,Rejected,32,0,47092,0,,,127
+CAND0209,2020-03-28,Customer Service,Customer Support Agent,LinkedIn,Applied,58,3,48125,0,,,429
+CAND0210,2026-03-14,Operations,Logistics Coordinator,Referral,Applied,40,2,60792,0,,,89
+CAND0211,2025-01-19,Operations,Logistics Coordinator,Executive Search,Applied,51,5,72974,0,,,1294
+CAND0212,2020-07-19,Marketing,Digital Marketing Manager,Glassdoor,Applied,63,10,109575,0,,,177
+CAND0213,2020-10-19,Operations,Logistics Coordinator,College Campus,Applied,87,4,58673,0,,,76
+CAND0214,2024-05-30,Finance,Auditor,LinkedIn,Applied,41,4,84191,0,,,196
+CAND0215,2020-06-14,Marketing,Content Writer,Executive Search,Rejected,71,12,75429,0,,,2309
+CAND0216,2024-01-22,Marketing,Brand Manager,College Campus,Rejected,67,8,157527,0,,,61
+CAND0217,2026-04-06,Operations,Operations Manager,Executive Search,Joined,78,5,174354,179091,2026-04-29,23.0,13808
+CAND0218,2026-01-25,Marketing,Marketing Specialist,Glassdoor,Joined,85,9,99333,94768,2026-03-07,41.0,1728
+CAND0219,2024-07-18,IT,Data Scientist,College Campus,Interviewed,31,7,138694,0,,,65
+CAND0220,2022-01-25,Operations,Operations Manager,Referral,Applied,82,12,145208,0,,,39
+CAND0221,2025-04-05,Operations,Operations Manager,Glassdoor,Joined,86,11,178993,174641,2025-05-19,44.0,1918
+CAND0222,2023-07-24,Operations,Supply Chain Planner,LinkedIn,Interviewed,82,6,77053,0,,,349
+CAND0223,2024-11-18,Marketing,Marketing Specialist,LinkedIn,Rejected,57,0,65221,0,,,432
+CAND0224,2024-07-05,Operations,Operations Analyst,Referral,Rejected,51,8,96177,0,,,34
+CAND0225,2026-05-24,HR,HR Manager,Indeed,Joined,95,1,93204,91065,2026-06-21,28.0,1823
+CAND0226,2025-09-30,Finance,Finance Manager,Indeed,Joined,86,0,109147,117581,2025-11-15,46.0,2199
+CAND0227,2025-11-17,IT,QA Engineer,Indeed,Applied,45,0,62932,0,,,95
+CAND0228,2022-04-11,Customer Service,Customer Success Manager,Glassdoor,Interviewed,35,6,87014,0,,,241
+CAND0229,2025-09-20,IT,Senior Developer,Referral,Applied,75,0,124389,0,,,68
+CAND0230,2025-11-28,Finance,Senior Accountant,Glassdoor,Shortlisted,80,3,103358,0,,,222
+CAND0231,2024-02-05,Marketing,Marketing Specialist,Indeed,Rejected,57,3,75916,0,,,209
+CAND0232,2024-12-24,HR,HR Generalist,Glassdoor,Joined,85,0,63619,69463,2025-01-28,35.0,2656
+CAND0233,2025-02-19,Sales,Account Manager,College Campus,Joined,97,6,100424,99335,2025-04-13,53.0,1160
+CAND0234,2023-07-31,IT,System Administrator,Referral,Rejected,43,1,86363,0,,,48
+CAND0235,2025-12-03,Sales,Sales Representative,LinkedIn,Interviewed,59,3,65772,0,,,395
+CAND0236,2025-05-15,Sales,Sales Representative,Glassdoor,Joined,78,8,54312,53054,2025-06-15,31.0,2481
+CAND0237,2020-10-18,Finance,Finance Manager,Indeed,Shortlisted,77,9,127098,0,,,203
+CAND0238,2025-05-15,Operations,Operations Manager,LinkedIn,Joined,94,4,155962,162462,2025-06-29,45.0,4209
+CAND0239,2025-07-14,Customer Service,Customer Success Manager,LinkedIn,Interviewed,69,2,77622,0,,,387
+CAND0240,2020-04-09,HR,HR Manager,Executive Search,Interviewed,52,7,111426,0,,,1955
+CAND0241,2025-07-15,Customer Service,Customer Support Agent,Glassdoor,Rejected,41,1,43531,0,,,182
+CAND0242,2025-04-15,IT,Senior Developer,Indeed,Shortlisted,84,4,156224,0,,,85
+CAND0243,2025-08-02,HR,HR Generalist,Referral,Applied,67,6,56255,0,,,48
+CAND0244,2026-03-27,Customer Service,Customer Success Manager,Indeed,Joined,80,1,80071,80316,2026-05-22,56.0,2305
+CAND0245,2025-03-31,Finance,Financial Analyst,Executive Search,Interviewed,59,1,87948,0,,,1300
+CAND0246,2021-12-30,HR,Talent Acquisition Specialist,Executive Search,Shortlisted,69,0,48472,0,,,1354
+CAND0247,2022-04-14,IT,System Administrator,Glassdoor,Applied,64,6,80709,0,,,237
+CAND0248,2022-05-18,IT,Senior Developer,Executive Search,Applied,77,9,143451,0,,,2343
+CAND0249,2025-12-19,Sales,Business Development Associate,Glassdoor,Rejected,41,4,56685,0,,,236
+CAND0250,2023-07-18,Sales,Sales Representative,Glassdoor,Rejected,31,3,67285,0,,,264
+CAND0251,2022-12-28,IT,System Administrator,Referral,Applied,38,5,79569,0,,,77
+CAND0252,2024-12-02,HR,HR Manager,Indeed,Joined,95,0,87076,94634,2025-01-05,34.0,1465
+CAND0253,2021-07-10,Operations,Operations Analyst,College Campus,Shortlisted,59,5,86242,0,,,64
+CAND0254,2025-06-25,Sales,Business Development Associate,LinkedIn,Joined,85,8,81214,84819,2025-07-22,27.0,4025
+CAND0255,2024-12-31,Customer Service,Support Lead,Indeed,Joined,93,7,88305,84220,2025-02-20,51.0,872
+CAND0256,2023-04-02,HR,Talent Acquisition Specialist,Referral,Selected,85,5,80527,81847,2023-05-19,47.0,914
+CAND0257,2025-07-21,HR,HR Manager,Glassdoor,Joined,93,3,93570,98284,2025-08-15,25.0,1474
+CAND0258,2020-10-15,IT,Data Scientist,Glassdoor,Rejected,54,0,119900,0,,,238
+CAND0259,2025-04-11,HR,Benefits Specialist,Glassdoor,Joined,82,8,91960,90377,2025-06-04,54.0,1625
+CAND0260,2024-11-13,Operations,Operations Manager,LinkedIn,Joined,95,0,127667,124094,2025-01-08,56.0,2704
+CAND0261,2025-02-10,Marketing,Marketing Specialist,Indeed,Joined,96,2,79553,85850,2025-03-24,42.0,2325
+CAND0262,2025-05-30,Marketing,Marketing Specialist,College Campus,Joined,81,2,88202,94817,2025-07-10,41.0,1114
+CAND0263,2022-03-10,Marketing,Digital Marketing Manager,Indeed,Applied,77,0,81719,0,,,231
+CAND0264,2020-04-25,Sales,Sales Director,Executive Search,Interviewed,76,1,169738,0,,,1671
+CAND0265,2026-03-23,Sales,Sales Director,Indeed,Joined,98,3,179397,182258,2026-04-22,30.0,1585
+CAND0266,2020-03-05,HR,HR Manager,Glassdoor,Shortlisted,76,5,122739,0,,,268
+CAND0267,2026-06-16,Marketing,Brand Manager,Indeed,Rejected,57,5,143875,0,,,135
+CAND0268,2024-11-03,Sales,Sales Representative,Indeed,Shortlisted,84,7,63084,0,,,146
+CAND0269,2026-04-11,Marketing,Brand Manager,Indeed,Joined,78,7,139259,135740,2026-06-03,53.0,1763
+CAND0270,2021-01-22,IT,System Administrator,Referral,Rejected,55,6,74583,0,,,33
+CAND0271,2022-05-01,Customer Service,Customer Success Manager,Glassdoor,Applied,95,0,74920,0,,,143
+CAND0272,2023-03-18,Finance,Auditor,Executive Search,Interviewed,85,10,96712,0,,,1937
+CAND0273,2020-02-20,Marketing,Brand Manager,Referral,Shortlisted,63,10,153981,0,,,95
+CAND0274,2026-02-21,Finance,Finance Manager,LinkedIn,Joined,93,6,163336,179941,2026-04-04,42.0,2568
+CAND0275,2026-06-15,IT,Software Engineer,LinkedIn,Applied,63,0,91087,0,,,443
+CAND0276,2023-05-03,Sales,Sales Representative,Glassdoor,Shortlisted,75,6,66617,0,,,188
+CAND0277,2024-08-13,IT,System Administrator,LinkedIn,Selected,84,2,65507,66726,2024-09-26,44.0,3512
+CAND0278,2022-06-01,Finance,Senior Accountant,Indeed,Interviewed,77,5,108013,0,,,211
+CAND0279,2022-05-14,Marketing,Brand Manager,LinkedIn,Shortlisted,52,9,138668,0,,,317
+CAND0280,2022-12-02,Operations,Logistics Coordinator,Referral,Shortlisted,67,13,81563,0,,,48
+CAND0281,2025-12-24,Sales,Sales Representative,Referral,Interviewed,51,8,67122,0,,,75
+CAND0282,2025-03-05,Sales,Sales Director,LinkedIn,Joined,79,1,180328,189906,2025-03-22,17.0,4295
+CAND0283,2024-03-03,Marketing,Brand Manager,Executive Search,Shortlisted,72,6,129787,0,,,1692
+CAND0284,2023-07-01,Customer Service,Customer Support Agent,Executive Search,Selected,81,3,48692,49406,2023-08-26,56.0,16005
+CAND0285,2023-04-12,Sales,Sales Representative,Executive Search,Applied,95,5,61792,0,,,1561
+CAND0286,2025-05-23,Operations,Operations Analyst,Referral,Joined,75,2,76416,75253,2025-06-12,20.0,444
+CAND0287,2022-11-02,Marketing,Content Writer,College Campus,Applied,56,10,56070,0,,,110
+CAND0288,2026-01-09,Marketing,Brand Manager,Indeed,Shortlisted,74,4,132648,0,,,157
+CAND0289,2022-10-14,IT,Senior Developer,Referral,Shortlisted,56,1,122442,0,,,73
+CAND0290,2025-08-22,Marketing,Digital Marketing Manager,LinkedIn,Joined,96,5,97354,103328,2025-09-25,34.0,4075
+CAND0291,2026-04-14,Sales,Business Development Associate,Executive Search,Selected,79,0,48439,48619,2026-06-16,63.0,14466
+CAND0292,2026-03-01,Marketing,Digital Marketing Manager,Indeed,Joined,89,6,94431,94248,2026-04-08,38.0,981
+CAND0293,2023-10-25,Customer Service,Customer Success Manager,LinkedIn,Rejected,45,7,113957,0,,,332
+CAND0294,2025-09-11,Customer Service,Support Lead,LinkedIn,Joined,89,2,85095,87797,2025-10-18,37.0,3253
+CAND0295,2025-08-12,Customer Service,Support Lead,Indeed,Joined,79,13,88339,92191,2025-09-22,41.0,1603
+CAND0296,2025-03-23,Finance,Financial Analyst,College Campus,Rejected,72,5,101595,0,,,151
+CAND0297,2025-01-08,Finance,Finance Manager,Indeed,Joined,86,0,106667,107529,2025-02-23,46.0,2201
+CAND0298,2025-05-10,Sales,Business Development Associate,Indeed,Joined,84,1,70378,68602,2025-06-09,30.0,2259
+CAND0299,2025-03-17,Operations,Operations Manager,Indeed,Joined,86,1,101914,99209,2025-05-08,52.0,1713
+CAND0300,2026-05-29,Customer Service,Support Lead,LinkedIn,Selected,90,2,67776,67543,2026-07-23,55.0,3446
+CAND0301,2025-04-19,IT,Senior Developer,Referral,Joined,79,10,190442,210811,2025-05-20,31.0,791
+CAND0302,2025-01-28,Finance,Financial Analyst,Glassdoor,Shortlisted,75,9,92161,0,,,118
+CAND0303,2025-04-21,Finance,Finance Manager,College Campus,Joined,81,6,111408,111658,2025-06-05,45.0,925
+CAND0304,2026-02-07,Marketing,Brand Manager,College Campus,Joined,76,2,90912,89277,2026-03-31,52.0,1817
+CAND0305,2020-04-14,Marketing,Brand Manager,Executive Search,Selected,77,3,118844,117145,2020-06-05,52.0,14457
+CAND0306,2025-06-30,Sales,Account Manager,LinkedIn,Joined,98,0,90711,96552,2025-08-02,33.0,2500
+CAND0307,2025-08-03,Customer Service,Support Lead,Executive Search,Shortlisted,81,4,70997,0,,,1495
+CAND0308,2023-07-02,Customer Service,Customer Success Manager,Indeed,Shortlisted,54,4,93595,0,,,219
+CAND0309,2022-03-19,Operations,Operations Analyst,LinkedIn,Shortlisted,60,3,58573,0,,,174
+CAND0310,2026-05-29,Customer Service,Support Lead,College Campus,Interviewed,83,5,63058,0,,,66
+CAND0311,2024-10-29,Customer Service,Customer Success Manager,College Campus,Interviewed,81,9,118745,0,,,114
+CAND0312,2025-10-22,IT,Data Scientist,LinkedIn,Rejected,74,0,94092,0,,,333
+CAND0313,2020-08-25,Finance,Auditor,Referral,Shortlisted,69,6,87312,0,,,75
+CAND0314,2026-07-02,IT,Data Scientist,Executive Search,Interviewed,95,5,134287,0,,,2295
+CAND0315,2025-11-08,Marketing,Brand Manager,LinkedIn,Joined,98,11,156513,158489,2025-12-22,44.0,3137
+CAND0316,2021-04-02,Customer Service,Support Lead,College Campus,Selected,52,5,74661,76243,2021-05-15,43.0,1327
+CAND0317,2026-01-04,Sales,Account Manager,Indeed,Joined,93,13,90884,95044,2026-02-26,53.0,1878
+CAND0318,2021-05-24,IT,System Administrator,Executive Search,Selected,79,8,79355,81180,2021-07-19,56.0,23540
+CAND0319,2024-12-12,Operations,Supply Chain Planner,Indeed,Joined,84,4,95031,92416,2025-01-23,42.0,1446
+CAND0320,2025-10-11,Customer Service,Support Lead,Indeed,Joined,96,10,100355,107184,2025-11-25,45.0,1895
+CAND0321,2020-06-19,HR,HR Generalist,Glassdoor,Shortlisted,77,5,57469,0,,,208
+CAND0322,2022-08-13,IT,System Administrator,Referral,Shortlisted,81,6,83062,0,,,86
+CAND0323,2026-03-28,IT,System Administrator,Referral,Selected,73,7,83831,81828,2026-05-06,39.0,609
+CAND0324,2025-02-24,IT,Senior Developer,Glassdoor,Applied,43,2,114580,0,,,290
+CAND0325,2026-02-21,Customer Service,Customer Success Manager,Indeed,Applied,94,6,93937,0,,,212
+CAND0326,2025-02-25,Finance,Senior Accountant,College Campus,Joined,77,2,122878,125311,2025-04-03,37.0,1896
+CAND0327,2022-08-21,Customer Service,Support Lead,Referral,Rejected,73,3,73581,0,,,60
+CAND0328,2025-07-11,Operations,Logistics Coordinator,LinkedIn,Joined,81,13,78487,75629,2025-07-31,20.0,1812
+CAND0329,2023-01-09,HR,HR Generalist,Indeed,Interviewed,55,4,62368,0,,,165
+CAND0330,2021-10-14,Marketing,Marketing Specialist,Glassdoor,Rejected,56,3,77163,0,,,134
+CAND0331,2025-04-18,Sales,Sales Director,Glassdoor,Rejected,37,6,202129,0,,,218
+CAND0332,2024-09-17,Operations,Operations Analyst,Indeed,Rejected,72,5,74194,0,,,245
+CAND0333,2023-12-02,Customer Service,Customer Support Agent,Referral,Shortlisted,72,6,47769,0,,,85
+CAND0334,2025-01-27,Customer Service,Customer Support Agent,LinkedIn,Joined,93,2,44812,48028,2025-02-17,21.0,3681
+CAND0335,2026-02-04,Marketing,Marketing Specialist,College Campus,Selected,57,4,63132,66039,2026-02-28,24.0,1028
+CAND0336,2025-12-25,HR,HR Manager,Indeed,Interviewed,52,0,100431,0,,,112
+CAND0337,2025-02-26,Finance,Finance Manager,Indeed,Joined,86,3,141032,143015,2025-04-20,53.0,2324
+CAND0338,2026-04-04,Customer Service,Customer Support Agent,College Campus,Rejected,52,5,43244,0,,,155
+CAND0339,2026-01-14,Operations,Operations Manager,Referral,Joined,81,1,108963,115393,2026-02-28,45.0,389
+CAND0340,2025-08-24,HR,HR Generalist,LinkedIn,Joined,77,15,115095,123826,2025-10-03,40.0,1843
+CAND0341,2024-12-26,Sales,Business Development Associate,Indeed,Joined,86,8,106742,111846,2025-02-20,56.0,910
+CAND0342,2021-08-12,Finance,Senior Accountant,LinkedIn,Applied,69,5,95671,0,,,154
+CAND0343,2026-01-21,Marketing,Marketing Specialist,Executive Search,Applied,36,5,81847,0,,,2413
+CAND0344,2026-07-14,Marketing,Brand Manager,Executive Search,Shortlisted,88,2,115190,0,,,2414
+CAND0345,2022-08-06,Sales,Account Manager,Executive Search,Shortlisted,68,0,63921,0,,,2483
+CAND0346,2023-06-17,HR,HR Generalist,Indeed,Rejected,64,7,71911,0,,,111
+CAND0347,2026-02-14,Sales,Sales Representative,Indeed,Joined,96,5,61659,67587,2026-03-20,34.0,2065
+CAND0348,2023-07-26,Customer Service,Customer Support Agent,LinkedIn,Rejected,58,3,50956,0,,,305
+CAND0349,2026-05-30,IT,Software Engineer,LinkedIn,Rejected,46,5,84292,0,,,422
+CAND0350,2025-04-21,Marketing,Marketing Specialist,LinkedIn,Joined,87,3,87125,88873,2025-05-13,22.0,3209
+CAND0351,2020-09-17,HR,Talent Acquisition Specialist,Executive Search,Interviewed,93,3,66819,0,,,2245
+CAND0352,2024-11-01,Operations,Supply Chain Planner,College Campus,Selected,68,4,64957,65145,2024-12-31,60.0,1054
+CAND0353,2026-05-05,Customer Service,Customer Success Manager,LinkedIn,Applied,74,3,88071,0,,,244
+CAND0354,2026-04-02,HR,Talent Acquisition Specialist,LinkedIn,Joined,95,6,103410,99589,2026-05-27,55.0,4095
+CAND0355,2025-05-02,HR,Talent Acquisition Specialist,College Campus,Shortlisted,75,1,55300,0,,,79
+CAND0356,2026-04-10,Customer Service,Support Lead,Indeed,Joined,96,1,73934,76261,2026-06-05,56.0,1347
+CAND0357,2021-02-04,Marketing,Content Writer,Executive Search,Applied,54,6,72211,0,,,1958
+CAND0358,2022-07-06,HR,HR Manager,LinkedIn,Shortlisted,55,2,109840,0,,,427
+CAND0359,2026-01-04,Customer Service,Customer Success Manager,LinkedIn,Rejected,61,5,72626,0,,,305
+CAND0360,2025-04-14,Marketing,Marketing Specialist,Glassdoor,Joined,75,8,99940,107924,2025-06-03,50.0,2915
+CAND0361,2023-01-19,Finance,Financial Analyst,Referral,Rejected,71,6,82626,0,,,76
+CAND0362,2026-02-08,Sales,Sales Director,LinkedIn,Interviewed,62,2,180421,0,,,184
+CAND0363,2023-05-03,Operations,Operations Manager,Referral,Rejected,63,0,98384,0,,,33
+CAND0364,2025-08-13,HR,HR Manager,Indeed,Joined,85,2,86629,87148,2025-09-21,39.0,1525
+CAND0365,2024-10-02,HR,Talent Acquisition Specialist,College Campus,Shortlisted,95,14,100972,0,,,140
+CAND0366,2025-12-06,Sales,Sales Director,Referral,Rejected,60,2,124042,0,,,51
+CAND0367,2021-02-01,IT,QA Engineer,Executive Search,Rejected,47,7,95211,0,,,1237
+CAND0368,2023-04-02,IT,Senior Developer,College Campus,Applied,65,12,202148,0,,,170
+CAND0369,2025-04-25,Finance,Auditor,Referral,Joined,77,1,60560,59780,2025-06-07,43.0,930
+CAND0370,2026-01-22,IT,Software Engineer,College Campus,Joined,75,2,105235,113023,2026-03-10,47.0,748
+CAND0371,2024-12-28,Operations,Operations Manager,College Campus,Selected,71,8,133470,134272,2025-03-03,65.0,1666
+CAND0372,2025-04-13,Operations,Supply Chain Planner,Indeed,Joined,93,2,62932,62514,2025-05-02,19.0,1049
+CAND0373,2025-07-24,Sales,Business Development Associate,Indeed,Joined,98,3,63800,70329,2025-09-13,51.0,1540
+CAND0374,2025-04-23,HR,HR Manager,Indeed,Joined,79,5,106609,108330,2025-06-05,43.0,2005
+CAND0375,2021-10-30,IT,QA Engineer,Referral,Interviewed,72,3,88343,0,,,52
+CAND0376,2025-07-31,HR,HR Generalist,Referral,Joined,90,5,82079,91081,2025-09-09,40.0,869
+CAND0377,2025-10-22,Finance,Auditor,Referral,Joined,91,1,79722,82992,2025-12-08,47.0,941
+CAND0378,2023-03-26,Customer Service,Support Lead,Glassdoor,Interviewed,49,4,80539,0,,,282
+CAND0379,2025-07-04,Finance,Finance Manager,Indeed,Joined,96,2,136442,139196,2025-08-30,57.0,1180
+CAND0380,2024-07-24,HR,Talent Acquisition Specialist,Executive Search,Rejected,44,1,67876,0,,,1557
+CAND0381,2026-03-06,Sales,Sales Director,Glassdoor,Joined,81,1,129925,143365,2026-04-13,38.0,2839
+CAND0382,2026-03-10,Finance,Auditor,College Campus,Applied,84,8,93576,0,,,133
+CAND0383,2023-05-25,Marketing,Marketing Specialist,College Campus,Applied,58,7,81556,0,,,105
+CAND0384,2024-01-15,Marketing,Brand Manager,College Campus,Shortlisted,60,2,102753,0,,,123
+CAND0385,2022-12-06,IT,QA Engineer,Glassdoor,Interviewed,72,0,74650,0,,,228
+CAND0386,2025-06-07,Customer Service,Customer Success Manager,LinkedIn,Joined,97,6,78920,79445,2025-07-24,47.0,2624
+CAND0387,2025-10-31,Sales,Sales Director,LinkedIn,Applied,67,0,173617,0,,,365
+CAND0388,2022-10-01,HR,Benefits Specialist,Referral,Selected,65,8,92691,93792,2022-11-17,47.0,563
+CAND0389,2026-04-03,Finance,Auditor,Indeed,Joined,94,4,103977,108204,2026-05-05,32.0,2412
+CAND0390,2025-09-22,HR,HR Manager,Glassdoor,Joined,95,9,165300,171229,2025-10-29,37.0,2816
+CAND0391,2026-03-28,Finance,Financial Analyst,LinkedIn,Joined,89,3,86066,87876,2026-05-07,40.0,3248
+CAND0392,2026-06-14,Marketing,Marketing Specialist,LinkedIn,Joined,76,0,82412,83680,2026-06-29,15.0,2346
+CAND0393,2020-12-08,Marketing,Digital Marketing Manager,LinkedIn,Shortlisted,74,5,92959,0,,,185
+CAND0394,2025-06-09,Finance,Auditor,Executive Search,Applied,65,5,71684,0,,,1406
+CAND0395,2021-10-29,Customer Service,Customer Success Manager,Executive Search,Shortlisted,71,1,78743,0,,,1825
+CAND0396,2024-06-03,IT,Data Scientist,Executive Search,Selected,85,0,122919,125305,2024-06-28,25.0,22383
+CAND0397,2021-09-25,IT,System Administrator,LinkedIn,Applied,68,8,103142,0,,,152
+CAND0398,2025-03-31,Finance,Auditor,Glassdoor,Joined,82,0,60423,62563,2025-05-06,36.0,1495
+CAND0399,2026-05-09,Marketing,Content Writer,Referral,Shortlisted,74,5,60830,0,,,56
+CAND0400,2025-03-31,Sales,Sales Director,Glassdoor,Joined,86,2,164199,175285,2025-04-16,16.0,1315
+CAND0401,2024-02-14,IT,Data Scientist,Referral,Rejected,61,8,160357,0,,,44
+CAND0402,2021-10-02,IT,System Administrator,Executive Search,Shortlisted,68,3,90101,0,,,2139
+CAND0403,2025-04-05,Finance,Auditor,Referral,Joined,97,8,108558,117618,2025-05-28,53.0,843
+CAND0404,2026-04-14,Finance,Auditor,Referral,Interviewed,49,4,82854,0,,,67
+CAND0405,2022-09-24,HR,HR Generalist,Glassdoor,Selected,77,7,80965,78907,2022-10-15,21.0,2379
+CAND0406,2021-03-07,Finance,Finance Manager,College Campus,Applied,50,7,147603,0,,,87
+CAND0407,2024-01-24,HR,HR Manager,Referral,Interviewed,64,8,130562,0,,,70
+CAND0408,2025-03-05,Marketing,Content Writer,Referral,Joined,94,2,65047,63991,2025-04-24,50.0,322
+CAND0409,2025-09-01,Customer Service,Support Lead,LinkedIn,Selected,62,3,78282,78320,2025-10-20,49.0,3479
+CAND0410,2025-10-06,IT,Senior Developer,College Campus,Interviewed,68,7,142449,0,,,112
+CAND0411,2025-09-19,HR,HR Manager,Indeed,Applied,65,9,124650,0,,,186
+CAND0412,2025-06-24,Customer Service,Customer Support Agent,College Campus,Shortlisted,90,4,45771,0,,,140
+CAND0413,2024-12-14,Finance,Auditor,Glassdoor,Rejected,71,2,60063,0,,,174
+CAND0414,2024-12-14,Finance,Auditor,LinkedIn,Joined,83,5,93946,94201,2025-02-06,54.0,4401
+CAND0415,2025-01-22,Finance,Financial Analyst,Referral,Joined,82,6,113873,108700,2025-02-25,34.0,742
+CAND0416,2022-11-10,Operations,Supply Chain Planner,LinkedIn,Rejected,52,10,83461,0,,,447
+CAND0417,2025-08-02,Marketing,Content Writer,LinkedIn,Joined,83,1,72407,71327,2025-09-23,52.0,1720
+CAND0418,2020-12-15,Operations,Logistics Coordinator,Glassdoor,Shortlisted,76,2,69611,0,,,194
+CAND0419,2021-01-17,IT,Software Engineer,LinkedIn,Rejected,62,7,102592,0,,,336
+CAND0420,2022-03-27,Customer Service,Support Lead,College Campus,Applied,39,4,67973,0,,,192
+CAND0421,2023-02-08,HR,Talent Acquisition Specialist,Glassdoor,Shortlisted,94,0,59035,0,,,182
+CAND0422,2025-01-09,HR,Benefits Specialist,Glassdoor,Joined,85,3,74753,79478,2025-02-07,29.0,2979
+CAND0423,2023-05-07,Sales,Sales Director,LinkedIn,Interviewed,77,9,191275,0,,,237
+CAND0424,2021-03-25,Finance,Senior Accountant,Indeed,Interviewed,77,0,81453,0,,,193
+CAND0425,2026-02-06,Operations,Supply Chain Planner,Indeed,Joined,98,2,73435,74379,2026-04-05,58.0,1504
+CAND0426,2023-01-30,Marketing,Brand Manager,Referral,Rejected,42,0,106790,0,,,71
+CAND0427,2026-02-16,Finance,Auditor,Glassdoor,Joined,83,0,85957,86458,2026-04-05,48.0,1240
+CAND0428,2021-10-25,Sales,Account Manager,Indeed,Selected,68,7,95424,90670,2021-11-15,21.0,1752
+CAND0429,2026-03-10,IT,Data Scientist,LinkedIn,Joined,93,10,160651,153065,2026-04-19,40.0,3321
+CAND0430,2024-03-10,IT,System Administrator,Executive Search,Interviewed,92,7,107013,0,,,2336
+CAND0431,2025-03-20,Marketing,Content Writer,College Campus,Joined,78,5,80750,82114,2025-04-22,33.0,1961
+CAND0432,2025-02-23,Operations,Supply Chain Planner,Glassdoor,Joined,76,1,76532,78276,2025-03-31,36.0,1443
+CAND0433,2026-07-09,Finance,Finance Manager,Executive Search,Shortlisted,65,2,129862,0,,,1241
+CAND0434,2025-10-24,HR,HR Generalist,LinkedIn,Joined,78,1,53429,59176,2025-12-02,39.0,3384
+CAND0435,2026-02-10,Operations,Supply Chain Planner,Executive Search,Joined,75,0,71161,71243,2026-04-09,58.0,12644
+CAND0436,2023-11-30,Sales,Sales Representative,Referral,Interviewed,64,5,70594,0,,,33
+CAND0437,2022-08-29,Sales,Account Manager,College Campus,Shortlisted,62,0,73037,0,,,194
+CAND0438,2026-01-17,Finance,Auditor,Referral,Joined,93,6,102309,100150,2026-02-24,38.0,542
+CAND0439,2023-10-15,Customer Service,Customer Success Manager,Referral,Shortlisted,81,7,91603,0,,,50
+CAND0440,2025-09-24,Sales,Account Manager,Glassdoor,Selected,82,5,73788,73707,2025-11-12,49.0,1262
+CAND0441,2025-01-02,Marketing,Brand Manager,College Campus,Joined,81,10,187263,199108,2025-02-20,49.0,674
+CAND0442,2026-05-29,HR,HR Manager,LinkedIn,Applied,30,4,98456,0,,,261
+CAND0443,2025-12-16,Sales,Account Manager,LinkedIn,Joined,89,5,93800,90487,2026-02-07,53.0,2769
+CAND0444,2025-03-22,IT,Senior Developer,College Campus,Joined,84,6,141147,134897,2025-05-16,55.0,964
+CAND0445,2022-09-01,Customer Service,Customer Success Manager,Indeed,Shortlisted,82,5,89365,0,,,237
+CAND0446,2020-03-10,IT,System Administrator,College Campus,Applied,31,6,101387,0,,,60
+CAND0447,2026-08-02,Operations,Logistics Coordinator,Glassdoor,Interviewed,76,4,73512,0,,,266
+CAND0448,2025-06-22,Marketing,Content Writer,LinkedIn,Joined,91,0,47521,51313,2025-07-08,16.0,2903
+CAND0449,2026-02-10,IT,QA Engineer,LinkedIn,Joined,88,4,80047,85558,2026-04-08,57.0,4487
+CAND0450,2026-08-15,Marketing,Brand Manager,Executive Search,Selected,68,0,113199,117319,2026-10-07,53.0,18395
+CAND0451,2021-01-27,Marketing,Marketing Specialist,LinkedIn,Interviewed,55,13,81239,0,,,180
+CAND0452,2026-02-19,Finance,Finance Manager,LinkedIn,Joined,80,0,120910,127497,2026-04-17,57.0,2151
+CAND0453,2024-02-28,IT,Software Engineer,College Campus,Selected,68,9,125963,123861,2024-04-27,59.0,1126
+CAND0454,2022-03-31,Customer Service,Support Lead,Referral,Interviewed,64,0,62371,0,,,68
+CAND0455,2022-09-11,HR,HR Manager,Executive Search,Applied,39,3,97628,0,,,2053
+CAND0456,2025-08-11,IT,Senior Developer,LinkedIn,Joined,92,1,136938,136958,2025-10-09,59.0,4351
+CAND0457,2025-09-15,Sales,Sales Director,Glassdoor,Joined,87,1,136522,131499,2025-10-13,28.0,1384
+CAND0458,2020-06-29,IT,System Administrator,Indeed,Applied,42,4,95827,0,,,201
+CAND0459,2025-04-15,Customer Service,Support Lead,Indeed,Joined,91,2,62497,66125,2025-05-27,42.0,1004
+CAND0460,2022-03-19,Finance,Auditor,LinkedIn,Shortlisted,67,9,82188,0,,,161
+CAND0461,2022-01-24,Finance,Senior Accountant,Indeed,Shortlisted,57,0,73193,0,,,102
+CAND0462,2025-06-06,Finance,Financial Analyst,LinkedIn,Joined,92,6,72019,77352,2025-07-01,25.0,3094
+CAND0463,2025-06-24,Customer Service,Support Lead,College Campus,Joined,91,7,65532,67403,2025-07-09,15.0,1308
+CAND0464,2026-03-25,Sales,Business Development Associate,LinkedIn,Interviewed,83,3,74672,0,,,422
+CAND0465,2026-08-06,IT,Data Scientist,Indeed,Shortlisted,68,0,128526,0,,,203
+CAND0466,2024-02-08,Sales,Business Development Associate,Executive Search,Interviewed,38,3,73759,0,,,1881
+CAND0467,2025-08-29,HR,Talent Acquisition Specialist,LinkedIn,Joined,90,0,61353,66537,2025-09-19,21.0,2654
+CAND0468,2024-10-08,Customer Service,Customer Success Manager,Referral,Applied,68,3,70978,0,,,81
+CAND0469,2021-12-03,Marketing,Digital Marketing Manager,LinkedIn,Rejected,50,5,120444,0,,,271
+CAND0470,2025-03-24,Customer Service,Support Lead,Glassdoor,Shortlisted,68,2,57863,0,,,220
+CAND0471,2026-02-08,Sales,Sales Representative,Glassdoor,Rejected,59,1,62361,0,,,239
+CAND0472,2025-08-22,Sales,Sales Representative,College Campus,Joined,93,1,57414,63443,2025-09-22,31.0,1656
+CAND0473,2020-02-18,Customer Service,Support Lead,Executive Search,Applied,46,7,78104,0,,,2284
+CAND0474,2020-06-13,Operations,Supply Chain Planner,Executive Search,Applied,38,6,98160,0,,,1812
+CAND0475,2024-08-19,IT,Senior Developer,Referral,Applied,80,7,173368,0,,,31
+CAND0476,2022-02-05,HR,HR Generalist,Glassdoor,Applied,61,4,67326,0,,,249
+CAND0477,2026-05-11,Sales,Business Development Associate,LinkedIn,Joined,80,3,66622,69382,2026-06-16,36.0,1514
+CAND0478,2026-03-19,HR,HR Manager,College Campus,Joined,88,10,140865,142908,2026-04-10,22.0,551
+CAND0479,2022-05-08,Marketing,Content Writer,Glassdoor,Interviewed,48,2,64555,0,,,147
+CAND0480,2025-03-03,Sales,Business Development Associate,College Campus,Joined,92,1,57375,61389,2025-04-10,38.0,1531
+CAND0481,2023-06-22,HR,HR Generalist,LinkedIn,Shortlisted,80,4,64601,0,,,184
+CAND0482,2024-11-18,Finance,Finance Manager,Referral,Applied,74,7,125443,0,,,32
+CAND0483,2020-05-26,Operations,Operations Analyst,Glassdoor,Rejected,41,0,54932,0,,,286
+CAND0484,2022-10-23,HR,HR Generalist,College Campus,Shortlisted,91,6,78808,0,,,168
+CAND0485,2025-12-27,IT,Software Engineer,LinkedIn,Joined,85,1,112181,109852,2026-01-25,29.0,3969
+CAND0486,2024-02-18,Sales,Business Development Associate,LinkedIn,Interviewed,54,6,57126,0,,,291
+CAND0487,2022-07-31,Sales,Sales Representative,College Campus,Applied,62,5,75471,0,,,128
+CAND0488,2025-09-15,Customer Service,Support Lead,College Campus,Joined,87,2,64184,68427,2025-10-05,20.0,974
+CAND0489,2022-01-12,Operations,Operations Manager,Indeed,Shortlisted,83,4,107364,0,,,234
+CAND0490,2023-12-15,Customer Service,Support Lead,Referral,Rejected,65,0,51987,0,,,30
+CAND0491,2025-07-31,HR,HR Manager,Glassdoor,Rejected,68,3,106714,0,,,272
+CAND0492,2025-04-15,Finance,Finance Manager,Glassdoor,Joined,82,2,115695,127602,2025-05-30,45.0,1462
+CAND0493,2026-05-01,IT,QA Engineer,LinkedIn,Joined,88,0,72678,71798,2026-06-22,52.0,4459
+CAND0494,2022-11-23,Finance,Auditor,Glassdoor,Applied,30,12,96054,0,,,211
+CAND0495,2026-01-04,Customer Service,Customer Success Manager,LinkedIn,Joined,76,5,111681,113038,2026-02-22,49.0,4370
+CAND0496,2024-08-09,Sales,Account Manager,LinkedIn,Applied,74,5,87217,0,,,158
+CAND0497,2024-02-11,Customer Service,Support Lead,Indeed,Applied,76,3,77275,0,,,227
+CAND0498,2020-12-30,Customer Service,Support Lead,Referral,Applied,36,5,79035,0,,,88
+CAND0499,2022-06-19,Finance,Auditor,Glassdoor,Interviewed,74,6,85196,0,,,169
+CAND0500,2021-06-01,Marketing,Content Writer,Indeed,Shortlisted,76,7,63616,0,,,183
+CAND0501,2025-09-03,Finance,Senior Accountant,Glassdoor,Joined,75,16,139566,137676,2025-10-31,58.0,2187
+CAND0502,2025-03-24,HR,Talent Acquisition Specialist,Indeed,Joined,83,8,91759,87935,2025-05-10,47.0,1578
+CAND0503,2023-09-09,Finance,Auditor,LinkedIn,Shortlisted,73,4,88504,0,,,444
+CAND0504,2021-02-14,IT,Senior Developer,College Campus,Rejected,70,6,132944,0,,,177
+CAND0505,2023-09-26,Sales,Business Development Associate,Referral,Interviewed,89,11,66728,0,,,96
+CAND0506,2025-01-02,HR,Benefits Specialist,College Campus,Joined,88,6,90115,97777,2025-02-22,51.0,956
+CAND0507,2026-06-15,Marketing,Digital Marketing Manager,Executive Search,Rejected,38,9,109610,0,,,1290
+CAND0508,2021-01-17,Customer Service,Customer Support Agent,Glassdoor,Applied,83,14,59005,0,,,138
+CAND0509,2025-07-22,IT,QA Engineer,College Campus,Rejected,66,2,66537,0,,,83
+CAND0510,2025-06-12,Marketing,Content Writer,Indeed,Joined,82,0,47753,52604,2025-08-09,58.0,1093
+CAND0511,2025-10-17,Marketing,Brand Manager,College Campus,Joined,82,0,79128,84374,2025-12-08,52.0,1276
+CAND0512,2025-06-24,Sales,Sales Representative,LinkedIn,Joined,97,4,86866,84056,2025-08-03,40.0,3047
+CAND0513,2020-01-08,Finance,Senior Accountant,Executive Search,Shortlisted,74,11,131676,0,,,1413
+CAND0514,2025-04-13,Operations,Logistics Coordinator,Glassdoor,Joined,92,1,49975,48426,2025-05-26,43.0,1661
+CAND0515,2021-02-28,Marketing,Brand Manager,LinkedIn,Interviewed,61,1,116078,0,,,443
+CAND0516,2022-02-27,IT,QA Engineer,Glassdoor,Interviewed,73,6,79872,0,,,208
+CAND0517,2020-12-27,Finance,Senior Accountant,LinkedIn,Rejected,31,7,100334,0,,,218
+CAND0518,2020-01-21,Finance,Senior Accountant,College Campus,Shortlisted,86,2,90116,0,,,111
+CAND0519,2024-01-30,Finance,Finance Manager,LinkedIn,Interviewed,84,5,151304,0,,,367
+CAND0520,2025-10-09,Sales,Business Development Associate,LinkedIn,Applied,59,8,84923,0,,,203
+CAND0521,2025-07-26,Operations,Operations Analyst,Indeed,Joined,77,3,77226,74431,2025-08-25,30.0,870
+CAND0522,2022-10-09,IT,Data Scientist,Executive Search,Interviewed,83,2,101181,0,,,2169
+CAND0523,2024-01-06,Operations,Logistics Coordinator,College Campus,Interviewed,91,11,72324,0,,,156
+CAND0524,2022-02-20,Customer Service,Customer Success Manager,LinkedIn,Rejected,69,0,78592,0,,,298
+CAND0525,2025-09-01,HR,HR Generalist,Referral,Interviewed,69,12,81169,0,,,41
+CAND0526,2024-08-10,HR,Talent Acquisition Specialist,Indeed,Interviewed,30,9,86268,0,,,80
+CAND0527,2025-06-22,HR,HR Generalist,College Campus,Joined,97,0,49047,54124,2025-07-12,20.0,1579
+CAND0528,2020-03-06,Finance,Financial Analyst,Indeed,Applied,50,4,95051,0,,,224
+CAND0529,2024-02-28,IT,Software Engineer,Executive Search,Shortlisted,76,3,82766,0,,,1309
+CAND0530,2021-03-03,Marketing,Content Writer,College Campus,Interviewed,38,2,45165,0,,,105
+CAND0531,2025-07-13,HR,Benefits Specialist,Glassdoor,Selected,62,4,71512,69160,2025-09-14,63.0,2393
+CAND0532,2020-06-06,Finance,Finance Manager,Indeed,Applied,80,4,108610,0,,,178
+CAND0533,2026-04-02,Customer Service,Support Lead,Glassdoor,Interviewed,54,10,79251,0,,,102
+CAND0534,2022-01-09,Finance,Auditor,Indeed,Interviewed,57,12,100696,0,,,189
+CAND0535,2020-09-30,IT,QA Engineer,LinkedIn,Rejected,72,5,83514,0,,,393
+CAND0536,2025-08-09,Customer Service,Customer Success Manager,Glassdoor,Joined,87,13,129979,133612,2025-09-01,23.0,1548
+CAND0537,2025-12-26,Marketing,Brand Manager,College Campus,Applied,88,1,83674,0,,,69
+CAND0538,2023-09-05,Operations,Operations Analyst,College Campus,Shortlisted,91,2,77685,0,,,77
+CAND0539,2025-03-06,Marketing,Marketing Specialist,LinkedIn,Joined,86,1,57671,63303,2025-03-29,23.0,2035
+CAND0540,2025-01-13,IT,Senior Developer,LinkedIn,Joined,79,4,170346,173388,2025-03-04,50.0,4452
+CAND0541,2021-04-09,HR,Talent Acquisition Specialist,Executive Search,Rejected,67,4,55821,0,,,1640
+CAND0542,2024-12-24,Customer Service,Customer Support Agent,Referral,Shortlisted,70,0,44722,0,,,40
+CAND0543,2025-08-22,HR,HR Manager,Indeed,Joined,86,3,127603,123030,2025-10-16,55.0,2460
+CAND0544,2026-02-16,Marketing,Content Writer,Glassdoor,Joined,81,0,51108,50091,2026-03-30,42.0,2322
+CAND0545,2023-12-20,Finance,Senior Accountant,LinkedIn,Shortlisted,88,0,79919,0,,,435
+CAND0546,2022-07-18,Customer Service,Support Lead,Indeed,Interviewed,89,13,87865,0,,,199
+CAND0547,2025-02-11,Sales,Account Manager,Glassdoor,Applied,60,6,102561,0,,,114
+CAND0548,2025-10-16,Finance,Senior Accountant,Referral,Joined,93,8,114311,109612,2025-12-11,56.0,781
+CAND0549,2023-12-03,HR,Benefits Specialist,Executive Search,Shortlisted,83,1,62123,0,,,1513
+CAND0550,2025-04-18,HR,HR Manager,Glassdoor,Rejected,73,8,119854,0,,,223
+CAND0551,2020-12-08,Sales,Sales Director,Referral,Shortlisted,81,0,159327,0,,,61
+CAND0552,2026-03-31,HR,Talent Acquisition Specialist,LinkedIn,Joined,96,16,102067,102360,2026-05-18,48.0,2141
+CAND0553,2022-04-19,Marketing,Marketing Specialist,Indeed,Rejected,32,0,68994,0,,,140
+CAND0554,2026-04-25,Customer Service,Support Lead,Indeed,Joined,93,5,80935,78607,2026-06-09,45.0,903
+CAND0555,2022-06-10,Operations,Operations Analyst,College Campus,Applied,38,1,66277,0,,,193
+CAND0556,2021-01-30,HR,Benefits Specialist,Referral,Applied,51,11,91133,0,,,69
+CAND0557,2023-02-11,Operations,Logistics Coordinator,Indeed,Applied,49,3,51612,0,,,125
+CAND0558,2025-01-23,Marketing,Digital Marketing Manager,LinkedIn,Selected,84,0,78843,82094,2025-03-27,63.0,2860
+CAND0559,2025-07-08,IT,System Administrator,Glassdoor,Joined,78,0,78748,75601,2025-08-07,30.0,1232
+CAND0560,2022-08-23,HR,Talent Acquisition Specialist,Referral,Rejected,63,9,87175,0,,,63
+CAND0561,2025-05-24,Customer Service,Customer Support Agent,LinkedIn,Applied,64,3,41509,0,,,400
+CAND0562,2024-06-26,HR,HR Manager,College Campus,Rejected,64,0,109384,0,,,112
+CAND0563,2026-01-17,Customer Service,Customer Support Agent,Glassdoor,Joined,92,9,72755,73077,2026-03-09,51.0,2708
+CAND0564,2025-03-30,Customer Service,Customer Success Manager,Glassdoor,Shortlisted,83,3,100655,0,,,242
+CAND0565,2022-02-13,Sales,Sales Representative,Glassdoor,Rejected,32,7,58279,0,,,134
+CAND0566,2026-03-13,HR,HR Manager,Referral,Selected,81,6,125564,119418,2026-05-18,66.0,507
+CAND0567,2025-11-23,HR,HR Manager,Indeed,Joined,75,2,111231,112788,2026-01-13,51.0,2240
+CAND0568,2023-11-09,IT,QA Engineer,Glassdoor,Shortlisted,69,12,96001,0,,,129
+CAND0569,2026-01-01,Sales,Account Manager,Executive Search,Shortlisted,83,1,84845,0,,,1286
+CAND0570,2022-02-11,Finance,Senior Accountant,Executive Search,Applied,93,5,107540,0,,,1435
+CAND0571,2023-09-06,Operations,Operations Analyst,Executive Search,Shortlisted,76,2,63471,0,,,2135
+CAND0572,2025-06-19,Customer Service,Customer Success Manager,Indeed,Joined,84,3,122839,117731,2025-07-16,27.0,2200
+CAND0573,2022-09-19,Marketing,Marketing Specialist,Glassdoor,Rejected,53,0,70573,0,,,171
+CAND0574,2025-06-07,Sales,Business Development Associate,LinkedIn,Joined,92,9,89744,89379,2025-07-22,45.0,2869
+CAND0575,2022-02-04,HR,HR Generalist,Indeed,Applied,91,8,69453,0,,,136
+CAND0576,2024-11-22,Marketing,Content Writer,Glassdoor,Joined,96,2,43344,46545,2025-01-16,55.0,1370
+CAND0577,2021-07-09,Sales,Sales Director,LinkedIn,Applied,90,6,212252,0,,,253
+CAND0578,2026-04-07,Customer Service,Customer Success Manager,LinkedIn,Joined,92,5,121464,127035,2026-05-28,51.0,4426
+CAND0579,2021-12-16,HR,HR Generalist,Indeed,Shortlisted,71,6,58749,0,,,161
+CAND0580,2026-02-24,HR,Talent Acquisition Specialist,Glassdoor,Joined,79,5,97692,102943,2026-03-26,30.0,2677
+CAND0581,2025-04-12,Operations,Supply Chain Planner,Referral,Joined,77,0,78526,82240,2025-06-11,60.0,665
+CAND0582,2025-01-15,Customer Service,Support Lead,LinkedIn,Joined,76,4,69707,68301,2025-03-02,46.0,2592
+CAND0583,2021-04-16,Operations,Operations Analyst,Glassdoor,Applied,68,6,75850,0,,,180
+CAND0584,2025-12-18,Marketing,Brand Manager,Indeed,Joined,93,1,134599,135535,2026-01-07,20.0,1560
+CAND0585,2022-09-23,Customer Service,Customer Support Agent,Indeed,Applied,34,2,46404,0,,,237
+CAND0586,2026-03-26,Marketing,Marketing Specialist,Indeed,Rejected,74,0,48698,0,,,151
+CAND0587,2022-02-27,HR,HR Manager,College Campus,Rejected,38,5,132997,0,,,72
+CAND0588,2025-11-06,Operations,Operations Analyst,Executive Search,Joined,85,0,60964,63925,2025-12-22,46.0,13986
+CAND0589,2021-06-23,Sales,Business Development Associate,Indeed,Rejected,46,9,73573,0,,,163
+CAND0590,2025-08-29,Finance,Financial Analyst,Referral,Joined,78,1,92543,91469,2025-10-10,42.0,437
+CAND0591,2023-02-07,IT,Data Scientist,Executive Search,Rejected,65,11,137607,0,,,1717
+CAND0592,2025-12-02,Customer Service,Customer Support Agent,LinkedIn,Joined,89,0,47444,49146,2025-12-17,15.0,1799
+CAND0593,2025-04-04,HR,Talent Acquisition Specialist,LinkedIn,Joined,79,6,94840,104426,2025-05-07,33.0,3986
+CAND0594,2025-07-19,Sales,Sales Director,Executive Search,Shortlisted,87,8,185042,0,,,1326
+CAND0595,2025-02-08,Sales,Sales Representative,Executive Search,Joined,81,10,101738,101342,2025-04-07,58.0,18921
+CAND0596,2026-04-04,Sales,Sales Representative,Indeed,Joined,76,3,76976,76081,2026-05-21,47.0,2014
+CAND0597,2025-02-04,IT,System Administrator,LinkedIn,Joined,77,2,86023,82917,2025-02-21,17.0,3210
+CAND0598,2021-11-03,Customer Service,Customer Support Agent,Executive Search,Interviewed,92,5,58339,0,,,2041
+CAND0599,2025-01-19,Marketing,Marketing Specialist,College Campus,Applied,65,6,75395,0,,,184
+CAND0600,2025-10-25,Operations,Supply Chain Planner,LinkedIn,Joined,92,5,86810,88722,2025-11-24,30.0,3169
+CAND0601,2024-06-26,Sales,Sales Director,LinkedIn,Rejected,75,5,205341,0,,,322
+CAND0602,2020-04-19,IT,System Administrator,Executive Search,Interviewed,78,0,70946,0,,,1855
+CAND0603,2024-01-27,Marketing,Digital Marketing Manager,Referral,Applied,34,5,90945,0,,,79
+CAND0604,2020-01-06,Operations,Supply Chain Planner,Indeed,Selected,64,0,77060,78360,2020-03-21,75.0,1394
+CAND0605,2021-10-16,Operations,Logistics Coordinator,Referral,Shortlisted,66,4,52873,0,,,77
+CAND0606,2021-11-20,Operations,Operations Analyst,College Campus,Applied,81,11,100483,0,,,140
+CAND0607,2025-06-16,Marketing,Brand Manager,LinkedIn,Applied,66,8,158158,0,,,374
+CAND0608,2024-12-06,IT,Data Scientist,Indeed,Joined,77,0,130582,139061,2025-01-19,44.0,1784
+CAND0609,2026-04-26,HR,Benefits Specialist,Indeed,Joined,88,7,66859,69876,2026-05-13,17.0,1854
+CAND0610,2024-10-09,Sales,Sales Director,LinkedIn,Shortlisted,92,1,175278,0,,,191
+CAND0611,2024-12-26,Marketing,Marketing Specialist,LinkedIn,Joined,86,7,84801,87908,2025-01-29,34.0,2938
+CAND0612,2021-10-05,Customer Service,Support Lead,Referral,Rejected,61,4,61397,0,,,81
+CAND0613,2025-12-17,Customer Service,Customer Success Manager,Indeed,Joined,95,10,87370,90461,2026-02-10,55.0,2005
+CAND0614,2022-12-21,IT,Software Engineer,Indeed,Interviewed,74,1,82202,0,,,147
+CAND0615,2025-12-25,HR,Talent Acquisition Specialist,Referral,Shortlisted,80,4,56379,0,,,99
+CAND0616,2025-03-26,Marketing,Marketing Specialist,LinkedIn,Joined,90,0,83480,83220,2025-05-04,39.0,3470
+CAND0617,2026-03-13,Customer Service,Customer Success Manager,College Campus,Joined,88,1,82932,90522,2026-04-07,25.0,1079
+CAND0618,2020-11-17,Operations,Logistics Coordinator,LinkedIn,Applied,37,9,67371,0,,,303
+CAND0619,2020-03-14,Finance,Finance Manager,Glassdoor,Interviewed,73,7,140011,0,,,220
+CAND0620,2024-10-16,Marketing,Marketing Specialist,Executive Search,Interviewed,56,14,103916,0,,,2012
+CAND0621,2024-05-03,Sales,Account Manager,College Campus,Shortlisted,69,9,98423,0,,,69
+CAND0622,2022-02-11,IT,Senior Developer,Glassdoor,Interviewed,37,5,128162,0,,,106
+CAND0623,2021-05-03,Finance,Senior Accountant,Glassdoor,Interviewed,58,7,90343,0,,,200
+CAND0624,2023-09-21,Operations,Operations Manager,LinkedIn,Rejected,62,4,122477,0,,,261
+CAND0625,2025-04-07,Sales,Account Manager,College Campus,Shortlisted,74,0,71771,0,,,70
+CAND0626,2021-03-27,Customer Service,Support Lead,Indeed,Shortlisted,87,10,85015,0,,,209
+CAND0627,2022-02-15,IT,Senior Developer,Indeed,Applied,58,9,168376,0,,,87
+CAND0628,2020-11-13,Operations,Supply Chain Planner,Referral,Applied,40,4,88859,0,,,67
+CAND0629,2020-11-13,Operations,Operations Analyst,Glassdoor,Rejected,51,6,82593,0,,,280
+CAND0630,2023-06-04,Finance,Financial Analyst,Referral,Shortlisted,64,9,116750,0,,,48
+CAND0631,2026-01-30,Operations,Supply Chain Planner,Referral,Joined,90,1,73376,74944,2026-02-22,23.0,600
+CAND0632,2024-09-26,Sales,Sales Representative,College Campus,Shortlisted,74,8,70804,0,,,66
+CAND0633,2026-01-20,HR,HR Manager,Referral,Joined,87,5,142915,144108,2026-03-06,45.0,864
+CAND0634,2022-07-30,Customer Service,Support Lead,Glassdoor,Applied,48,0,55245,0,,,263
+CAND0635,2024-07-25,Operations,Logistics Coordinator,Glassdoor,Interviewed,80,5,61525,0,,,248
+CAND0636,2024-12-12,Operations,Operations Analyst,LinkedIn,Joined,82,0,78809,81305,2025-01-25,44.0,2729
+CAND0637,2024-07-14,HR,HR Generalist,LinkedIn,Applied,49,4,66653,0,,,428
+CAND0638,2021-01-12,Marketing,Marketing Specialist,Glassdoor,Interviewed,61,9,95117,0,,,217
+CAND0639,2022-03-30,Sales,Sales Representative,LinkedIn,Shortlisted,61,9,76742,0,,,382
+CAND0640,2025-03-27,IT,Software Engineer,College Campus,Applied,70,10,129855,0,,,127
+CAND0641,2026-03-06,Operations,Logistics Coordinator,Glassdoor,Shortlisted,77,0,54485,0,,,112
+CAND0642,2022-05-22,HR,HR Manager,LinkedIn,Applied,38,1,118345,0,,,192
+CAND0643,2025-06-22,HR,HR Manager,LinkedIn,Joined,95,4,121746,132978,2025-08-11,50.0,1539
+CAND0644,2025-12-26,Finance,Financial Analyst,Executive Search,Applied,70,9,107230,0,,,1389
+CAND0645,2022-08-26,Marketing,Marketing Specialist,Glassdoor,Shortlisted,94,2,64620,0,,,184
+CAND0646,2025-01-28,Customer Service,Support Lead,Indeed,Joined,76,2,59018,57805,2025-03-01,32.0,1591
+CAND0647,2021-10-22,Finance,Auditor,College Campus,Applied,55,0,58426,0,,,103
+CAND0648,2022-09-04,Finance,Auditor,Glassdoor,Shortlisted,69,7,89597,0,,,167
+CAND0649,2023-11-14,Sales,Sales Director,LinkedIn,Selected,53,2,134546,130708,2024-01-01,48.0,2587
+CAND0650,2025-07-23,Marketing,Brand Manager,Indeed,Joined,93,19,209231,210916,2025-09-16,55.0,1875
